@@ -1,2 +1,3 @@
-"This is the first experiment so,,," Pull Operation
+"This is the first experiment so,
+Fetch & Merge operation combine in this.
 
